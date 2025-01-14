@@ -14,3 +14,4 @@ server_scripts {
 client_scripts {
     'client/client.lua',
 }
+-- test2
